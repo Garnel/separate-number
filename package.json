@@ -1,7 +1,7 @@
 {
   "name": "separate-number",
   "main": "./lib/separate-number",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A atom package for toggling number between separated/unseparated format",
   "keywords": [
     "separate",
