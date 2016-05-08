@@ -1,14 +1,16 @@
 {
-  "name": "seperate-number",
-  "main": "./lib/seperate-number",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "name": "separate-number",
+  "main": "./lib/separate-number",
+  "version": "0.2.0",
+  "description": "A atom package for toggling number between separated/unseparated format",
   "keywords": [
+      "separate",
+      "number"
   ],
   "activationCommands": {
-    "atom-workspace": "seperate-number:toggle"
+    "atom-workspace": "separate-number:toggle"
   },
-  "repository": "https://github.com/atom/seperate-number",
+  "repository": "https://github.com/Garnel/separate-number",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
