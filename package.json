@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "separate-number:toggle"
   },
-  "repository": "https://github.com/Garnel/separate-number",
+  "repository": "https://github.com/maogm12/separate-number",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
